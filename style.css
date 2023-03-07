@@ -1,0 +1,86 @@
+*{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+header{
+    max-width: 85%;
+    margin: auto;
+    text-align: center;
+}
+.left-nav ul{
+    padding-left: 0;
+}
+.logo img{
+    display: block;
+    max-width: 100px;
+}
+.logo{
+    vertical-align: middle;
+    display: inline-block;
+    width: 32%;
+}
+.up-nav{
+    vertical-align: middle;
+    display: inline-block;
+    width: 33%;
+}
+.up-nav a{
+    margin: 0 10px;
+}
+.title{
+    vertical-align: middle;
+    display: inline-block;
+    text-align: right;
+    width: 33%;
+    font-size: 40px;
+}   
+.container{
+    max-width: 85%;
+    margin: auto;
+    display: flex;
+    
+}
+.left-nav{
+
+}
+
+.general{
+    text-align: right;
+}
+.text{
+    display: inline-block;
+    max-width: 95%;;
+}
+.text__image{
+    display: inline-block;
+    max-width: 100%;
+}
+.text__image img{
+    display: block;
+    max-width: 100%;
+}.card, .text {
+    text-align: center;
+}
+
+
+
+
+.card{
+    display: inline-block;
+    max-width: 24.8%;
+    vertical-align: top;
+    margin: 10px 3.5%;
+}
+.image{
+display: inline-block;
+max-width: 100%;
+}
+.image img{
+display: block;
+max-width: 100%;
+}
+.card p{
+    padding: 5px;
+}
+footer{
+    text-align: center;
+}
